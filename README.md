@@ -1,4 +1,3 @@
-# Archi-Garg_Sec-F_Anek-Creations
 # Anek Creations - E-Commerce Website
 
 ## Project Overview
@@ -8,7 +7,7 @@ This project develops a user-friendly e-commerce website for *Anek Creations*, a
 
 
 ## Introduction
-Online shopping is essential in the evolving retail landscape. Anek Creations needs an e-commerce solution to attract a wider audience, build brand loyalty, and maintain authenticity. The proposed platform bridges traditional retail practices and modern online consumer trends.
+In the evolving retail landscape, online shopping is essential. Anek Creations needs an e-commerce solution to attract a wider audience, build brand loyalty, and maintain its authenticity. The proposed platform bridges traditional retail practices and modern online consumer trends.
 
 ---
 
@@ -26,7 +25,7 @@ The surge in online demand for handcrafted and customized goods drives this proj
 ---
 
 ## Problem Statement
-Anek Creations lacks an online platform, reducing sales, visibility, and operational efficiency. Developing an e-commerce website is essential for expanding the brand’s reach, streamlining transactions, and achieving sustainable growth.
+Anek Creations lacks an online platform, leading to reduced sales, visibility, and operational efficiency. Developing an e-commerce website is essential for expanding the brand’s reach, streamlining transactions, and achieving sustainable growth.
 
 ---
 
@@ -78,7 +77,7 @@ Anek Creations lacks an online platform, reducing sales, visibility, and operati
 
 3. *Frontend Development*
    - Design UI.
-   - Develop a shopping experience.
+   - Develop shopping experience.
 
 4. *E-Commerce Features*
    - Integrate (optional) payment systems and filters.
